@@ -20,7 +20,8 @@ To prepare this data, the data was cleaned, and the following processes were per
     - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
 
 #### Visual 1 
-![sample Figure](Figure 1.png) 
+![alt tag](http://url/to/img.png)
+![sample Figure](Figure1.png) 
 
 > This pie chart shows that the percentage of  .
 
