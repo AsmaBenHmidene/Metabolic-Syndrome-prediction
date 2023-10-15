@@ -40,9 +40,7 @@ To prepare this data, the data was cleaned, and the following processes were per
 
 ## Results
  ### Expanatory Data Analysis
-    - To visualize the data for explantory purposes, two bargraphs and one regplot were chosen.
-    - The bargraphs were chosen to show how the categories compare to each other. 
-    - Finally, a regplot was chosen to show the trend of sales when coorelated to the maximum retail price of the product. 
+    - To visualize the data for explantory purposes, pie chart, boxplot and barplot were used. 
 
 #### Visual 2 
 ![sample image](Figure2.png)
