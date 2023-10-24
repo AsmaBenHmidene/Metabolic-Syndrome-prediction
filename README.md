@@ -1,4 +1,5 @@
 # Metabolic Syndrome Prediction
+### Binary Classification
 ## Objective:
 To predict metabolic syndrome based on common risk factors
 
